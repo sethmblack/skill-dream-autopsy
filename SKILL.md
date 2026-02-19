@@ -3,8 +3,9 @@ name: dream-autopsy
 description: Systematically analyze any institution, system, or organization by examining the gap between its original promise and actual delivery—revealing who benefits from the gap, what was sacrificed, and w...
 license: MIT
 metadata:
+  version: 1.0.3863
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dream-autopsy
 - escalation
